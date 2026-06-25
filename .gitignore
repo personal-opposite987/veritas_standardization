@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# React
+UI_module/node_modules/
+UI_module/dist/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQLite (optional)
+# Uncomment if you don't want to upload the generated database
+# DB_LOADER_module/veritas.db
